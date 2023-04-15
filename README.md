@@ -17,7 +17,9 @@ To use this project, first clone the repo on your device using the commands belo
 * [Ebad Akhter](https://github.com/ebadakhter)
 
 **Company Name:** Torrero Agronomy
+
 **Company Industry:** Agronomy/ Agriculture/ Agribusiness
+
 **Company Size:** 3 (startup)
 
 ### Methods
@@ -62,5 +64,4 @@ Organization for Economic Co-operation and development (OECD). (2023). How we fe
 
 
 ## Presentations and projects  
-* [Amazon SageMaker (AWS) Python - Jupyter Notebook](https://github.com/lshpaner/sd_streets/blob/main/sd_streets.ipynb)  
-* [Video Presentation](https://www.youtube.com/watch?v=zK5_D8_XaYY)  
+* [Amazon SageMaker (AWS) Python - Jupyter Notebook](https://github.com/hunterblum/CloudFinal-Team1/blob/main/Cloud_Team1.ipynb)
