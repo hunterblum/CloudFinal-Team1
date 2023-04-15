@@ -52,8 +52,9 @@ Our focus is to provide sound data analytics and practical solutions to our clie
 ### Data Sources
 The data will be stored in an S3 Bucket on the AWS service and will be communicated with AWS Sagemaker. There will be 5 files in total, uploaded to the AWS S3 Bucket and combined into a `df_merged.csv` file for Athena SQL Database.
 
-* FAO sourced datasets:
+  * FAO sourced datasets:
 https://www.fao.org/faostat/en/#data
+
 * World Bank / Kaggle sourced datasets:
 https://www.kaggle.com/datasets/patelris/crop-yield-prediction-dataset
 
