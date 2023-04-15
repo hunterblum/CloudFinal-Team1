@@ -6,7 +6,9 @@
 ### Installation
 
 To use this project, first clone the repo on your device using the commands below:
+
 `git init`
+
 `git clone https://github.com/hunterblum/CloudFinal-Team1.git`
 
 ### Partner(s)/Contriubutor(s)
